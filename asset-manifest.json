@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/panasovskyi/travel/static/css/main.d3680418.css",
+    "main.js": "/panasovskyi/travel/static/js/main.b805ed82.js",
+    "index.html": "/panasovskyi/travel/index.html",
+    "main.d3680418.css.map": "/panasovskyi/travel/static/css/main.d3680418.css.map",
+    "main.b805ed82.js.map": "/panasovskyi/travel/static/js/main.b805ed82.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3680418.css",
+    "static/js/main.b805ed82.js"
+  ]
+}
