@@ -1,0 +1,27 @@
+[
+  {
+    "id": "kyiv",
+    "city": "Київ",
+    "airport": "Boryspil International Airport"
+  },
+  {
+    "id": "lviv",
+    "city": "Львів",
+    "airport": "Lviv Danylo Halytskyi International Airport"
+  },
+  {
+    "id": "odesa",
+    "city": "Одеса",
+    "airport": "Odesa International Airport"
+  },
+  {
+    "id": "kharkiv",
+    "city": "Харків",
+    "airport": "Kharkiv International Airport"
+  },
+  {
+    "id": "dnipro",
+    "city": "Дніпро",
+    "airport": "Dnipro International Airport"
+  }
+]
